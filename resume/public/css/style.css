@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&family=Satisfy&display=swap');
+
+.st-font{
+    font-family: satisfy;
+}
+
+html,
+body{
+    height: 100%;
+}
+.h-100 {
+    height: 100vh!important;
+}
+
+.container-fluid{
+    min-height: 100%;
+}
+
+.i-color{
+    color: chartreuse;
+}
+
+.ss-color{
+    color: silver;
+}
+
+a.nav-link{
+     color: whitesmoke;
+}
+a.nav-link:hover{
+    color: black;
+    background-color: #e9cd79;
+}
+
+a.nav-link.active{
+    color: black;
+    background-color: #ffc107;
+    font-weight: bold;
+}
